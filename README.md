@@ -23,7 +23,7 @@ Train and tune Random Forest and Gradient Boosting models
 
 Visualize confusion matrices and evaluate using F1/G-Mean
 
-Compare models and select best based on macro performance
+Compare models and select the best based on macro performance
 
 ### The Jupyter notebook contains the answer (code) for all of the above tasks:
 
