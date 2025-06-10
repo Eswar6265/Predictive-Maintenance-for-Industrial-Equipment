@@ -2,6 +2,7 @@
 Developed a predictive maintenance system using sensor data to predict failures and optimize machine uptime.
 
 📘 **Project Description**
+
 Predictive maintenance is crucial in manufacturing to reduce unplanned downtime and extend equipment life. This project explores real-world sensor data from industrial equipment to build a failure prediction system. By engineering features like power, heat index, and overstrain, the model anticipates failure types and helps optimize maintenance schedules. Multiple ML models were tested, tuned, and compared based on multi-class performance.
 
 **Data Source:**
